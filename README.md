@@ -3,7 +3,7 @@
 A **deep learning-powered OCR web app** that extracts text from images across multiple Indian languages using state-of-the-art models.
 
 🚀 **Live Demo:**
-👉 https://huggingface.co/spaces/varshaa-1616/multilingual-ocr
+👉 https://huggingface.co/spaces/varshaa-1616/multilingual_ocr
 
 ---
 
@@ -154,7 +154,7 @@ This app is deployed using:
 * Hugging Face Spaces
 
 👉 Live link:
-https://huggingface.co/spaces/varshaa-1616/multilingual-ocr
+https://huggingface.co/spaces/varshaa-1616/multilingual_ocr
 
 ---
 
