@@ -1,0 +1,47 @@
+gradio
+easyocr
+opencv-python-headless
+numpy==1.26.4
+Pillow
+torch==2.5.0
+torchvision==0.20.0
+
+
+# HF stack (compatible)
+transformers==4.49.0
+huggingface-hub>=0.26.0,<1.0
+datasets
+
+# OCR dependencies
+matplotlib
+scipy
+shapely
+lmdb
+easydict
+timm
+
+# NLP / utils
+nltk
+regex
+tqdm
+requests
+pyyaml
+
+# async / networking (needed indirectly)
+aiohttp
+aiosignal
+frozenlist
+multidict
+yarl<2.0
+
+# ML utils
+pytorch-lightning
+torchmetrics
+lightning-utilities
+
+# misc required by IndicOCR
+sympy
+networkx
+filelock
+packaging
+typing-extensions>=4.14.0
