@@ -189,6 +189,12 @@ https://huggingface.co/spaces/varshaa-1616/multilingual_ocr
 
 ---
 
+## 👩‍💻 Mentor
+
+**Panigrahi Srikanth**
+
+---
+
 ## 👩‍💻 Author
 
 **Srivarsha C**
